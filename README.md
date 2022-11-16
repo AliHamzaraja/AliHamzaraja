@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliHamzaraja
 - 👀 I’m interested in Flutter Mobile App Development
-- 🌱 I’m currently doing Intership as Flutter Developer in Alright Tech and Studing Computer Science From Arid Agriculture University Rawalpindi
+- 🌱 I’m currently working as Flutter Developer in Alright Tech and Studing Computer Science From Arid Agriculture University Rawalpindi
 - 📫 How to reach me 
 - Contact no: 03006491477
 - Email: alihamzarajpoot88@gmail.com
